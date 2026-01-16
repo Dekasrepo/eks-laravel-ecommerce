@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: aws-auth 
+  namespace: kube-system
+data:
+  mapUsers: |
+    - userarn: arn:aws:iam::648682442381:user/Jane     # Update as needed with your IAM user ARN
+      username: Jane    # Update as needed with your desired Kubernetes username
+      groups:
+        - system:masters  #Gives admin access to cluster
