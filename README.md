@@ -11,7 +11,9 @@ This deployment is a continuation of a prior ECS-based Laravel application, inte
 
 ## Architecture
 ### High-level flow:
-<img width="1081" height="1920" alt="eks-architecture" src="https://github.com/user-attachments/assets/b28c2da1-a51e-4e52-a03c-27d31707d8e9" />
+
+<img width="1024" height="1536" alt="ChatGPT Image Jan 16, 2026, 11_03_06 PM" src="https://github.com/user-attachments/assets/9862fffb-6156-47a5-89cf-df09e641af0c" />
+
 
 The application runs entirely within private subnets and is exposed securely via HTTPS using ACM and Route 53.
 
