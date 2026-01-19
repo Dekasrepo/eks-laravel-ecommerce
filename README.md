@@ -237,6 +237,18 @@ The next phase of this project will:
 - Introduce CI/CD automation
 - Improve repeatability and scalability
 
+-------
+
+## 👤 Author
+**Jane Obikwelu**
+**Cloud Engineer | Aspiring Solutions Architect**
+
+Medium: https://janeobikwelu.medium.com 
+GitHub: https://github.com/Dekasrepo 
+📖 Design & Deployment Walkthrough:
+Deploying a Production-Ready Laravel E-Commerce Application on AWS with Docker, EKS, and RDS
+https://medium.com/@janeobikwelu/deploying-a-production-ready-laravel-e-commerce-application-on-aws-with-docker-eks-and-rds-16f707b4a96a
+
 
 
 
